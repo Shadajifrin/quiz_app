@@ -235,7 +235,7 @@ class ResultPage extends StatelessWidget {
                   Navigator.of(context).pop(); // Close the result page
                 }
               },
-              child: Text(percentageScore < 50 ? 'Try Again' : 'Back',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 20),),
+              child: Text(percentageScore < 50 ? 'Try Again..!' : 'Back..!',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 20),),
              
               height: 75,
               minWidth: 180,
