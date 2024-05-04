@@ -1,55 +1,55 @@
 List<Map<String,dynamic>> queAns=[
     {
      'question':"What is the capital of france?",
-     'options':['Berlin','Paris','Rome','Madrid'],
-     'correctanswer':'Rome',
+     'options':['1. Berlin','2. Paris','3. Rome','4. Madrid'],
+     'correctanswer':'3. Rome',
 
     },
     {
      'question':"What is the Capital of Jammu?",
-     'options':['Kashmir','Jammu','Srinagar','None'],
-     'correctanswer':'Srinagar',
+     'options':['1. Kashmir','2. Jammu','3. Srinagar','4. None'],
+     'correctanswer':'3. Srinagar',
 
     },
     {
      'question':"Which planet is known as red?",
-     'options':['Earth','Mars','Venus','Jupiter'],
-     'correctanswer':'Mars',
+     'options':['1. Earth','2. Mars','3. Venus','4. Jupiter'],
+     'correctanswer':'2. Mars',
 
     },
     {
      'question':"Which is the largest planet?",
-     'options':['Earth','Mars','Venus','Jupiter'],
-     'correctanswer':'Jupiter',
+     'options':['1. Earth','2. Mars','3. Venus','4. Jupiter'],
+     'correctanswer':'4. Jupiter',
     },
       {
-     'question':"Which planet has the highest average surface temperature?",
-     'options':['Earth','Mars','Venus','Jupiter'],
-     'correctanswer':'Venus',
+     'question':"high surface temperature planet?",
+     'options':['1. Earth','2. Mars','3. Venus','4. Jupiter'],
+     'correctanswer':'3. Venus',
     },
       {
      'question':"Which Planet is closest to sun?",
-     'options':['Earth','Mercury','Venus','Saturn'],
-     'correctanswer':'Mercury',
+     'options':['1. Earth','2. Mercury','3. Venus','4. Saturn'],
+     'correctanswer':'2. Mercury',
     },
       {
-     'question':" Which planet is known for its distinct blue color?",
-     'options':['Earth','Saturn','Neptune','Venus'],
-     'correctanswer':'Neptune',
+     'question':"Planet Known for its blue color?",
+     'options':['1. Earth','2. Saturn','3. Neptune','4. Venus'],
+     'correctanswer':'3. Neptune',
     },
      {
-     'question':"Which planet is famous for its prominent rings?",
-     'options':['Earth','Saturn','Neptune','Venus'],
-     'correctanswer':'Saturn',
+     'question':"Planet famous for prominent rings?",
+     'options':['1. Earth','2. Saturn','3. Neptune','4. Venus'],
+     'correctanswer':'2. Saturn',
     },
     {
-     'question':"Which planet has the highest average surface temperature?",
-     'options':['Earth','Mars','Venus','Jupiter'],
-     'correctanswer':'Venus',
+     'question':"high surface temperature planet?",
+     'options':['1. Earth','2. Mars','3. Venus','4. Jupiter'],
+     'correctanswer':'3. Venus',
     },
       {
      'question':"Which Planet is closest to sun?",
-     'options':['Earth','Mercury','Venus','Saturn'],
-     'correctanswer':'Mercury',
+     'options':['1. Earth','2. Mercury','3. Venus','4. Saturn'],
+     'correctanswer':'2. Mercury',
     },
   ];
